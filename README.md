@@ -1,6 +1,6 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Thales H. P. de Lira, <breve resumo sobre Thales Aqui!>
+Meu nome é Thales H. P. de Lira!
 
 <div align="center">
   <a href="https://github.com/thplira">
