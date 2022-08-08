@@ -1,6 +1,6 @@
-### Hi everyone, very welcome to my GitHub 👋
+## Hi everyone, very welcome to my GitHub 👋
 
-# I'm Thales H. P. de Lira, a brazilian computer scientist and technology enthusiastic!
+### I'm Thales H. P. de Lira, a brazilian computer scientist and technology enthusiastic!
 
 <div align="center">
   <a href="https://github.com/thplira">
@@ -8,13 +8,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thplira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-# Languages I've studied or worked with:
+### Languages I've studied or worked with:
 <div style="display: inline_block"><br>
   <img align="center" alt="lang-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="lang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="lang-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-# Databases I've studied or worked with:
+### Databases I've studied or worked with:
   <img align="center" alt="db-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 ##
   
