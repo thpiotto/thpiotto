@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/thplira">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thplira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thplira&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thplira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 ### Languages I've studied or worked with: <div style="display: inline_block">
