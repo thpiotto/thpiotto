@@ -15,7 +15,7 @@
 	      <img align="center" alt="lang-JS" height="40" width=32 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	      <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" height=25> 
 		  <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" height=25>
-		  ⠀⠀⠀⠀⠀⠀⠀⠀<img align="center" alt="lang-Go" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+		  ⠀⠀⠀⠀⠀⠀⠀⠀<img align="center" alt="lang-Go" height="40" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 	      <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" height=25>
 		  ⠀⠀⠀⠀⠀⠀⠀⠀<img align="center" alt="lang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 		  <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" height=25>
