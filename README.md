@@ -9,7 +9,7 @@
 </div>
  
 ### Languages or similar I've studied or worked with (Star represents proficiency): <div style="display: inline_block">
-  <img align="center" alt="lang-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" style="margin-top=-10vh" height="28" width="28">
+  <img align="center" alt="lang-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" style="margin-top=-1000vh" height="28" width="28">
   <img align="center" alt="lang-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="lang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
