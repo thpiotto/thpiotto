@@ -9,7 +9,7 @@
 </div>
  
 ### Languages or similar I've studied or worked with (Star represents proficiency): 
-  <div style="display: inline">
+  <div style="display: block">
     <div>
         <img align="center" alt="lang-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <div>
