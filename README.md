@@ -8,8 +8,8 @@
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thplira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-### Languages I've studied or worked with: <div style="display: inline_block">
-  <img align="center" alt="lang-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+### Languages or similar I've studied or worked with (Star represents proficiency): <div style="display: inline_block">
+  <img align="center" alt="lang-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img src="https://img.icons8.com/stickers/100/null/christmas-star.png" height="35" width="35">
   <img align="center" alt="lang-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="lang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
