@@ -10,7 +10,7 @@
  
 ### Languages or similar I've studied or worked with (Star represents proficiency): 
   <div style="display: inline_block">
-    <div style="margin-left: 10px">
+    <div style="padding-left: 10px">
         <img align="center" alt="lang-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" height="24" width="24">
     </div>
