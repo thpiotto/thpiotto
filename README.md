@@ -8,7 +8,8 @@
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thplira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-### Languages or similar I've studied or worked with (Star represents proficiency): 
+### [Languages or similar I've studied or worked with]
+  (Star represents proficiency): 
   <div style="display: inline_block">
     <div>
       <img align="center" alt="lang-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
