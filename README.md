@@ -8,8 +8,7 @@
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thplira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-### [Languages or similar I've studied or worked with]
-  (Star represents proficiency): 
+### Languages or similar I've studied or worked with
   <div style="display: inline_block">
     <div>
       <img align="center" alt="lang-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +23,9 @@
     <img align="center" alt="lang-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="lang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
-### Databases I've studied or worked with: <img align="center" alt="db-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+### Databases I've studied or worked with: 
+    <img align="center" alt="db-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="db-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
 
 ### Where to find me:  
 <div>
