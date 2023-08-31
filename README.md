@@ -19,6 +19,7 @@
 	      <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" height=25>
 		  ⠀⠀⠀⠀⠀⠀⠀⠀<img align="center" alt="lang-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 		  <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" height=25>
+		  <img src="https://img.icons8.com/stickers/100/null/christmas-star.png" height=25> 
 	</div>
 	<div name="SECOND LINE">
 	      <img align="center" alt="lang-Python" height="40" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
