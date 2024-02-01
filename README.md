@@ -1,7 +1,7 @@
 
 ## Hi everyone, very welcome to my GitHub 👋
 
-### I'm Thales H. P. de Lira, a brazilian computer scientist and technology enthusiastic!
+### I'm Thales H. Piotto de Lira, a brazilian computer scientist and technology enthusiastic!
 
 <div align="center">
   <a href="https://github.com/thpiotto">
