@@ -4,8 +4,8 @@
 ### I'm Thales H. P. de Lira, a brazilian computer scientist and technology enthusiastic!
 
 <div align="center">
-  <a href="https://github.com/thplira">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thplira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/thpiotto">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thpiotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thplira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -47,7 +47,7 @@
     
 ### Where to find me:  
 <div>
-  <a href="https://www.instagram.com/thaleslira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/thalespiotto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thplira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaleshplira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
